@@ -5,6 +5,7 @@ public class SampleClass {
     public static void main(String[] s)
     {
         System.out.println("main class demo");
+        System.out.println("new changes");
 
         
 
